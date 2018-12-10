@@ -3,8 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color:#565051;
-    background: url("images/Free-Use-White-Wrinkled-Paper-Texture.jpg");
-    background-repeat: no-repeat;
+    background: url("images/Free-Use-White-Wrinkled-Paper-Texture.jpg") no-repeat center fixed;
     background-size: cover;
   }
   .container {
