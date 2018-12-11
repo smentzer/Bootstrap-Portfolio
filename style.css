@@ -13,3 +13,13 @@ body {
     clear: both;
   }
   
+footer {
+    margin-top: 30%;
+    bottom: 0;
+    background: #f8f8f8;
+    height: 50px;
+}
+.copyright-text {
+    text-align: center;
+    margin-top: 10px;
+}
