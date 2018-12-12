@@ -13,7 +13,28 @@ body {
     clear: both;  
     margin-top: 40px;
   }
+  .work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px 30%;
+    overflow: auto;
+  }
+  
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 210px;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #565051;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
 
+  }
  footer {
     position: fixed;
     bottom: 0;
@@ -23,6 +44,7 @@ body {
     border-top: 8px solid #4aaaa5;
     background: #f8f8f8;
     padding-top: 10px;
+    margin-top: 20px;
  
 
 
@@ -36,6 +58,8 @@ body {
 .icons {
     margin-left: 15%;
 }
+
+ 
 
 
   
