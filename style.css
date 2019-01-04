@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     clear: both;  
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
   .work {
     position: relative;
@@ -56,9 +56,9 @@ body {
     text-align: center;
     color: #ffffff;
 }
-.icons {
+/* .icons {
     margin-left: 15%;
-}
+} */
 
  
 
